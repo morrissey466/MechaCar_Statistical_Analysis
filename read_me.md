@@ -1,6 +1,6 @@
 ## Linear Regression to Predict MPG 
 
-![](Lin_reg_Summary.png)
+![](Lin_Reg_Summary.png)
 ![](Linear_Reg.png)
 
 Vehicle length and ground clearence provided non-random amount of variance to the mpg values in the dataset. The slope of the linear model is not considered to be zero because we can reject the null hypothesis due to the p-value being below the critical threshold. The Adjusted R-Squared of the model indicates 68% of the variance can be predicted by the independent variables. A common critical threshold for strong correlation is 0.7 which we are just short of in our model. I would say our model does a decent job at predicting mpg, but not spectacular. 
